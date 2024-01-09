@@ -1,0 +1,5 @@
+secrets.txt
+.DS_Store
+
+# Log files (use hash tag to add comment)
+# use *.txt to ignore all the files with .txt extension
